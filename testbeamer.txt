@@ -1,0 +1,10 @@
+go out
+go east
+go north
+look beamer
+take beamer
+go south
+charge beamer
+go downstairs 
+go east
+fire beamer

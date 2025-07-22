@@ -12,3 +12,6 @@ logfile.txt
 # Packaged archives
 *.jar
 *.zip
+
+# Misc
+.DS_Store

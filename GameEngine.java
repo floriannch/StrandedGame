@@ -144,7 +144,7 @@ public class GameEngine
         Item vWatch = new Item("watch","a high-tech gravimetric watch designed for space missions.\nDisplays the time remaining before the ship crashes into the planet.\n",2.0);
         vObservatory.addItem(vWatch);
         
-        Item vBeamer = new Item("beamer", "a sophisticated device capable of instant teleportation\nto a memorized location.", 3.0);
+        Beamer vBeamer = new Beamer("beamer", "a sophisticated device capable of instant teleportation\nto a memorized location.", 3.0);
         vLab.addItem(vBeamer);
         
         Item vSensor = new Item("sensor", "a high-tech device capable of detecting faults in\nelectronic systems. The reactors won't run without it",2.0);

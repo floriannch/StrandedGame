@@ -296,6 +296,7 @@ public class Player
             return;
         }
         this.aCurrentRoom = vFiredRoom;
-        this.aGui.println("Teleported "+ this.aCurrentRoom.getLongDescription());
+        this.aGui.println("Teleported " + this.aCurrentRoom.getLongDescription().substring(8));
+        this.aGui.showImage(this.aCurrentRoom.getImageName());
     }
 }
