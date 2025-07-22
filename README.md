@@ -29,10 +29,8 @@ This game is built in Java and is based on the popular "World of Zuul" education
 
 Since this is a Java project, you will need to have a Java Development Kit (JDK) installed on your system to compile and run the game.
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-    ```
+1.  **Clone the repository**
+
 2.  **Navigate to the project directory:**
     ```bash
     cd StrandedGame
