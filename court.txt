@@ -1,0 +1,7 @@
+take flashlight
+go out
+look
+go east
+go downstairs
+back
+eat

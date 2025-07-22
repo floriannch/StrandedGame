@@ -1,0 +1,14 @@
+# Compiled Java class files
+*.class
+
+# BlueJ specific files
+*.ctxt
+package.bluej
+
+# Log files
+*.log
+logfile.txt
+
+# Packaged archives
+*.jar
+*.zip

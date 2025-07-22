@@ -1,0 +1,25 @@
+take flashlight
+go out
+go southeast
+take chips
+eat chips
+go north
+go north
+take boost_pill
+eat boost_pill
+take beamer
+take sensor
+go south
+go upstairs
+go south
+take watch
+go north
+go north
+take toolbox
+go south
+go downstairs
+go downstairs
+go west
+take fuel
+take fuse
+inventory

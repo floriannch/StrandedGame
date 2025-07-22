@@ -1,0 +1,30 @@
+go out
+go east
+go north
+take boost_pill
+eat boost_pill
+take sensor
+back
+go upstairs
+go north
+take toolbox
+back
+go downstairs
+go downstairs
+go west
+take fuse
+back
+go east
+use fuse
+back
+go west
+take fuel
+back
+go south
+use fuel
+use sensor
+go north
+go upstairs
+go upstairs
+go north
+win

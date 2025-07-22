@@ -1,0 +1,60 @@
+look flashlight
+take flashlight
+drop flashlight
+go out
+go room2
+back
+go room3
+back
+go southeast
+look chips
+take chips
+back
+go northwest
+go north
+eat chips
+go north
+look boost_pill
+take boost_pill
+look beamer
+take beamer
+drop beamer
+eat boost_pill
+look sensor
+take sensor
+back
+go south
+back
+go upstairs
+go south
+look watch
+take watch
+back
+go north
+look toolbox
+take toolbox
+back
+go downstairs
+go downstairs
+go east
+back
+go south
+back
+go west
+look fuse
+take fuse
+look fuel
+take fuel
+back
+go east
+use fuse
+back
+go south
+use sensor
+use fuel
+inventory
+back
+go upstairs
+go upstairs
+go north
+win
